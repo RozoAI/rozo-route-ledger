@@ -1,0 +1,731 @@
+{
+  "generated_at": "2026-10-08T14:12:01+00:00",
+  "ledger_version": 1,
+  "routes": [
+    {
+      "amount_bucket": "10to50",
+      "merchant_app_id": "merchant_openrouter",
+      "source_chain_id": "1",
+      "source_token": "ETH",
+      "supported": false
+    },
+    {
+      "amount_bucket": "1to10",
+      "merchant_app_id": "merchant_openrouter",
+      "source_chain_id": "1",
+      "source_token": "ETH",
+      "supported": false
+    },
+    {
+      "amount_bucket": "10to50",
+      "last_completed_week": "2026-W41",
+      "merchant_app_id": "merchant_openrouter",
+      "recommended": false,
+      "source_chain_id": "1",
+      "source_token": "USDC",
+      "success_rate_bucket": "<80%",
+      "supported": true
+    },
+    {
+      "amount_bucket": "1to10",
+      "merchant_app_id": "merchant_openrouter",
+      "source_chain_id": "1",
+      "source_token": "USDC",
+      "supported": false
+    },
+    {
+      "amount_bucket": "200to1000",
+      "merchant_app_id": "merchant_openrouter",
+      "source_chain_id": "1",
+      "source_token": "USDC",
+      "supported": true
+    },
+    {
+      "amount_bucket": "lt1",
+      "merchant_app_id": "merchant_openrouter",
+      "source_chain_id": "1",
+      "source_token": "USDC",
+      "supported": false
+    },
+    {
+      "amount_bucket": "10to50",
+      "merchant_app_id": "merchant_openrouter",
+      "source_chain_id": "1",
+      "source_token": "USDT",
+      "supported": true
+    },
+    {
+      "amount_bucket": "10to50",
+      "merchant_app_id": "merchant_openrouter",
+      "source_chain_id": "137",
+      "source_token": "USDC",
+      "supported": true
+    },
+    {
+      "amount_bucket": "lt1",
+      "merchant_app_id": "merchant_openrouter",
+      "source_chain_id": "137",
+      "source_token": "USDC",
+      "supported": false
+    },
+    {
+      "amount_bucket": "10to50",
+      "merchant_app_id": "merchant_openrouter",
+      "source_chain_id": "137",
+      "source_token": "USDT",
+      "supported": true
+    },
+    {
+      "amount_bucket": "10to50",
+      "merchant_app_id": "merchant_openrouter",
+      "source_chain_id": "1500",
+      "source_token": "USDC",
+      "supported": false
+    },
+    {
+      "amount_bucket": "1to10",
+      "merchant_app_id": "merchant_openrouter",
+      "source_chain_id": "1500",
+      "source_token": "USDC",
+      "supported": true
+    },
+    {
+      "amount_bucket": "50to200",
+      "merchant_app_id": "merchant_openrouter",
+      "source_chain_id": "1500",
+      "source_token": "USDC",
+      "supported": true
+    },
+    {
+      "amount_bucket": "10to50",
+      "merchant_app_id": "merchant_openrouter",
+      "source_chain_id": "42161",
+      "source_token": "USDC",
+      "supported": true
+    },
+    {
+      "amount_bucket": "lt1",
+      "merchant_app_id": "merchant_openrouter",
+      "source_chain_id": "42161",
+      "source_token": "USDC",
+      "supported": false
+    },
+    {
+      "amount_bucket": "10to50",
+      "merchant_app_id": "merchant_openrouter",
+      "source_chain_id": "42161",
+      "source_token": "USDT",
+      "supported": true
+    },
+    {
+      "amount_bucket": "10to50",
+      "merchant_app_id": "merchant_openrouter",
+      "source_chain_id": "56",
+      "source_token": "BNB",
+      "supported": true
+    },
+    {
+      "amount_bucket": "1to10",
+      "merchant_app_id": "merchant_openrouter",
+      "source_chain_id": "56",
+      "source_token": "BNB",
+      "supported": true
+    },
+    {
+      "amount_bucket": "10to50",
+      "merchant_app_id": "merchant_openrouter",
+      "source_chain_id": "56",
+      "source_token": "USDC",
+      "supported": true
+    },
+    {
+      "amount_bucket": "1to10",
+      "merchant_app_id": "merchant_openrouter",
+      "source_chain_id": "56",
+      "source_token": "USDC",
+      "supported": false
+    },
+    {
+      "amount_bucket": "lt1",
+      "merchant_app_id": "merchant_openrouter",
+      "source_chain_id": "56",
+      "source_token": "USDC",
+      "supported": false
+    },
+    {
+      "amount_bucket": "10to50",
+      "merchant_app_id": "merchant_openrouter",
+      "source_chain_id": "56",
+      "source_token": "USDT",
+      "supported": true
+    },
+    {
+      "amount_bucket": "1to10",
+      "merchant_app_id": "merchant_openrouter",
+      "source_chain_id": "56",
+      "source_token": "USDT",
+      "supported": false
+    },
+    {
+      "amount_bucket": "200to1000",
+      "merchant_app_id": "merchant_openrouter",
+      "source_chain_id": "56",
+      "source_token": "USDT",
+      "supported": false
+    },
+    {
+      "amount_bucket": "1to10",
+      "merchant_app_id": "merchant_openrouter",
+      "source_chain_id": "8453",
+      "source_token": "ETH",
+      "supported": false
+    },
+    {
+      "amount_bucket": "10to50",
+      "last_completed_week": "2026-W41",
+      "merchant_app_id": "merchant_openrouter",
+      "recommended": false,
+      "source_chain_id": "8453",
+      "source_token": "USDC",
+      "success_rate_bucket": "<80%",
+      "supported": true
+    },
+    {
+      "amount_bucket": "1to10",
+      "merchant_app_id": "merchant_openrouter",
+      "source_chain_id": "8453",
+      "source_token": "USDC",
+      "supported": true
+    },
+    {
+      "amount_bucket": "200to1000",
+      "merchant_app_id": "merchant_openrouter",
+      "source_chain_id": "8453",
+      "source_token": "USDC",
+      "supported": true
+    },
+    {
+      "amount_bucket": "50to200",
+      "merchant_app_id": "merchant_openrouter",
+      "source_chain_id": "8453",
+      "source_token": "USDC",
+      "supported": true
+    },
+    {
+      "amount_bucket": "lt1",
+      "merchant_app_id": "merchant_openrouter",
+      "source_chain_id": "8453",
+      "source_token": "USDC",
+      "supported": false
+    },
+    {
+      "amount_bucket": "1to10",
+      "merchant_app_id": "merchant_openrouter",
+      "source_chain_id": "900",
+      "source_token": "SOL",
+      "supported": false
+    },
+    {
+      "amount_bucket": "10to50",
+      "merchant_app_id": "merchant_openrouter",
+      "source_chain_id": "900",
+      "source_token": "USDC",
+      "supported": true
+    },
+    {
+      "amount_bucket": "1to10",
+      "merchant_app_id": "merchant_openrouter",
+      "source_chain_id": "900",
+      "source_token": "USDC",
+      "supported": true
+    },
+    {
+      "amount_bucket": "200to1000",
+      "merchant_app_id": "merchant_openrouter",
+      "source_chain_id": "900",
+      "source_token": "USDC",
+      "supported": true
+    },
+    {
+      "amount_bucket": "lt1",
+      "merchant_app_id": "merchant_openrouter",
+      "source_chain_id": "900",
+      "source_token": "USDC",
+      "supported": false
+    },
+    {
+      "amount_bucket": "10to50",
+      "merchant_app_id": "merchant_openrouter",
+      "source_chain_id": "900",
+      "source_token": "USDT",
+      "supported": true
+    },
+    {
+      "amount_bucket": "1to10",
+      "merchant_app_id": "merchant_openrouter",
+      "source_chain_id": "900",
+      "source_token": "USDT",
+      "supported": false
+    },
+    {
+      "amount_bucket": "10to50",
+      "merchant_app_id": "merchant_openrouter",
+      "source_chain_id": "lightning",
+      "source_token": "BTC",
+      "supported": true
+    },
+    {
+      "amount_bucket": "1to10",
+      "merchant_app_id": "merchant_openrouter",
+      "source_chain_id": "lightning",
+      "source_token": "BTC",
+      "supported": false
+    },
+    {
+      "amount_bucket": "200to1000",
+      "last_completed_week": "2026-W41",
+      "merchant_app_id": "merchant_openrouter",
+      "recommended": false,
+      "source_chain_id": "lightning",
+      "source_token": "BTC",
+      "success_rate_bucket": ">=95%",
+      "supported": true
+    },
+    {
+      "amount_bucket": "50to200",
+      "merchant_app_id": "merchant_openrouter",
+      "source_chain_id": "lightning",
+      "source_token": "BTC",
+      "supported": true
+    },
+    {
+      "amount_bucket": "10to50",
+      "merchant_app_id": "other",
+      "source_chain_id": "1",
+      "source_token": "USDC",
+      "supported": true
+    },
+    {
+      "amount_bucket": "50to200",
+      "merchant_app_id": "other",
+      "source_chain_id": "1",
+      "source_token": "USDC",
+      "supported": false
+    },
+    {
+      "amount_bucket": "lt1",
+      "merchant_app_id": "other",
+      "source_chain_id": "1",
+      "source_token": "USDC",
+      "supported": false
+    },
+    {
+      "amount_bucket": "10to50",
+      "merchant_app_id": "other",
+      "source_chain_id": "1",
+      "source_token": "USDT",
+      "supported": true
+    },
+    {
+      "amount_bucket": "1to10",
+      "merchant_app_id": "other",
+      "source_chain_id": "1",
+      "source_token": "USDT",
+      "supported": true
+    },
+    {
+      "amount_bucket": "lt1",
+      "merchant_app_id": "other",
+      "source_chain_id": "1",
+      "source_token": "USDT",
+      "supported": false
+    },
+    {
+      "amount_bucket": "10to50",
+      "merchant_app_id": "other",
+      "source_chain_id": "137",
+      "source_token": "USDC",
+      "supported": true
+    },
+    {
+      "amount_bucket": "200to1000",
+      "merchant_app_id": "other",
+      "source_chain_id": "137",
+      "source_token": "USDC",
+      "supported": true
+    },
+    {
+      "amount_bucket": "50to200",
+      "merchant_app_id": "other",
+      "source_chain_id": "137",
+      "source_token": "USDC",
+      "supported": true
+    },
+    {
+      "amount_bucket": "lt1",
+      "merchant_app_id": "other",
+      "source_chain_id": "137",
+      "source_token": "USDC",
+      "supported": true
+    },
+    {
+      "amount_bucket": "10to50",
+      "merchant_app_id": "other",
+      "source_chain_id": "137",
+      "source_token": "USDT",
+      "supported": true
+    },
+    {
+      "amount_bucket": "50to200",
+      "merchant_app_id": "other",
+      "source_chain_id": "137",
+      "source_token": "USDT",
+      "supported": true
+    },
+    {
+      "amount_bucket": "1to10",
+      "merchant_app_id": "other",
+      "source_chain_id": "1500",
+      "source_token": "EURC",
+      "supported": true
+    },
+    {
+      "amount_bucket": "200to1000",
+      "merchant_app_id": "other",
+      "source_chain_id": "1500",
+      "source_token": "EURC",
+      "supported": true
+    },
+    {
+      "amount_bucket": "50to200",
+      "merchant_app_id": "other",
+      "source_chain_id": "1500",
+      "source_token": "EURC",
+      "supported": true
+    },
+    {
+      "amount_bucket": "gte1000",
+      "merchant_app_id": "other",
+      "source_chain_id": "1500",
+      "source_token": "EURC",
+      "supported": true
+    },
+    {
+      "amount_bucket": "lt1",
+      "merchant_app_id": "other",
+      "source_chain_id": "1500",
+      "source_token": "EURC",
+      "supported": false
+    },
+    {
+      "amount_bucket": "10to50",
+      "merchant_app_id": "other",
+      "source_chain_id": "1500",
+      "source_token": "USDC",
+      "supported": true
+    },
+    {
+      "amount_bucket": "1to10",
+      "last_completed_week": "2026-W41",
+      "merchant_app_id": "other",
+      "recommended": false,
+      "source_chain_id": "1500",
+      "source_token": "USDC",
+      "success_rate_bucket": "<80%",
+      "supported": true
+    },
+    {
+      "amount_bucket": "200to1000",
+      "merchant_app_id": "other",
+      "source_chain_id": "1500",
+      "source_token": "USDC",
+      "supported": true
+    },
+    {
+      "amount_bucket": "50to200",
+      "last_completed_week": "2026-W41",
+      "merchant_app_id": "other",
+      "recommended": false,
+      "source_chain_id": "1500",
+      "source_token": "USDC",
+      "success_rate_bucket": "80-95%",
+      "supported": true
+    },
+    {
+      "amount_bucket": "gte1000",
+      "merchant_app_id": "other",
+      "source_chain_id": "1500",
+      "source_token": "USDC",
+      "supported": true
+    },
+    {
+      "amount_bucket": "lt1",
+      "last_completed_week": "2026-W41",
+      "merchant_app_id": "other",
+      "recommended": false,
+      "source_chain_id": "1500",
+      "source_token": "USDC",
+      "success_rate_bucket": "<80%",
+      "supported": true
+    },
+    {
+      "amount_bucket": "1to10",
+      "merchant_app_id": "other",
+      "source_chain_id": "1500",
+      "source_token": "USDT0",
+      "supported": true
+    },
+    {
+      "amount_bucket": "lt1",
+      "merchant_app_id": "other",
+      "source_chain_id": "1500",
+      "source_token": "USDT0",
+      "supported": true
+    },
+    {
+      "amount_bucket": "50to200",
+      "merchant_app_id": "other",
+      "source_chain_id": "42161",
+      "source_token": "USDC",
+      "supported": false
+    },
+    {
+      "amount_bucket": "gte1000",
+      "merchant_app_id": "other",
+      "source_chain_id": "42161",
+      "source_token": "USDC",
+      "supported": true
+    },
+    {
+      "amount_bucket": "10to50",
+      "merchant_app_id": "other",
+      "source_chain_id": "42161",
+      "source_token": "USDT",
+      "supported": true
+    },
+    {
+      "amount_bucket": "1to10",
+      "merchant_app_id": "other",
+      "source_chain_id": "42161",
+      "source_token": "USDT",
+      "supported": true
+    },
+    {
+      "amount_bucket": "50to200",
+      "merchant_app_id": "other",
+      "source_chain_id": "42161",
+      "source_token": "USDT",
+      "supported": true
+    },
+    {
+      "amount_bucket": "10to50",
+      "merchant_app_id": "other",
+      "source_chain_id": "56",
+      "source_token": "USDC",
+      "supported": true
+    },
+    {
+      "amount_bucket": "1to10",
+      "merchant_app_id": "other",
+      "source_chain_id": "56",
+      "source_token": "USDC",
+      "supported": true
+    },
+    {
+      "amount_bucket": "200to1000",
+      "merchant_app_id": "other",
+      "source_chain_id": "56",
+      "source_token": "USDC",
+      "supported": true
+    },
+    {
+      "amount_bucket": "50to200",
+      "merchant_app_id": "other",
+      "source_chain_id": "56",
+      "source_token": "USDC",
+      "supported": true
+    },
+    {
+      "amount_bucket": "gte1000",
+      "merchant_app_id": "other",
+      "source_chain_id": "56",
+      "source_token": "USDC",
+      "supported": true
+    },
+    {
+      "amount_bucket": "lt1",
+      "merchant_app_id": "other",
+      "source_chain_id": "56",
+      "source_token": "USDC",
+      "supported": true
+    },
+    {
+      "amount_bucket": "10to50",
+      "merchant_app_id": "other",
+      "source_chain_id": "56",
+      "source_token": "USDT",
+      "supported": true
+    },
+    {
+      "amount_bucket": "1to10",
+      "merchant_app_id": "other",
+      "source_chain_id": "56",
+      "source_token": "USDT",
+      "supported": true
+    },
+    {
+      "amount_bucket": "200to1000",
+      "merchant_app_id": "other",
+      "source_chain_id": "56",
+      "source_token": "USDT",
+      "supported": true
+    },
+    {
+      "amount_bucket": "50to200",
+      "merchant_app_id": "other",
+      "source_chain_id": "56",
+      "source_token": "USDT",
+      "supported": true
+    },
+    {
+      "amount_bucket": "200to1000",
+      "merchant_app_id": "other",
+      "source_chain_id": "8453",
+      "source_token": "EURC",
+      "supported": true
+    },
+    {
+      "amount_bucket": "50to200",
+      "last_completed_week": "2026-W41",
+      "merchant_app_id": "other",
+      "recommended": false,
+      "source_chain_id": "8453",
+      "source_token": "EURC",
+      "success_rate_bucket": ">=95%",
+      "supported": true
+    },
+    {
+      "amount_bucket": "10to50",
+      "last_completed_week": "2026-W40",
+      "merchant_app_id": "other",
+      "recommended": false,
+      "source_chain_id": "8453",
+      "source_token": "USDC",
+      "success_rate_bucket": "<80%",
+      "supported": true
+    },
+    {
+      "amount_bucket": "1to10",
+      "last_completed_week": "2026-W40",
+      "merchant_app_id": "other",
+      "recommended": false,
+      "source_chain_id": "8453",
+      "source_token": "USDC",
+      "success_rate_bucket": "<80%",
+      "supported": true
+    },
+    {
+      "amount_bucket": "200to1000",
+      "merchant_app_id": "other",
+      "source_chain_id": "8453",
+      "source_token": "USDC",
+      "supported": true
+    },
+    {
+      "amount_bucket": "50to200",
+      "merchant_app_id": "other",
+      "source_chain_id": "8453",
+      "source_token": "USDC",
+      "supported": true
+    },
+    {
+      "amount_bucket": "gte1000",
+      "merchant_app_id": "other",
+      "source_chain_id": "8453",
+      "source_token": "USDC",
+      "supported": true
+    },
+    {
+      "amount_bucket": "lt1",
+      "last_completed_week": "2026-W40",
+      "merchant_app_id": "other",
+      "recommended": false,
+      "source_chain_id": "8453",
+      "source_token": "USDC",
+      "success_rate_bucket": "<80%",
+      "supported": true
+    },
+    {
+      "amount_bucket": "10to50",
+      "merchant_app_id": "other",
+      "source_chain_id": "900",
+      "source_token": "USDC",
+      "supported": true
+    },
+    {
+      "amount_bucket": "1to10",
+      "merchant_app_id": "other",
+      "source_chain_id": "900",
+      "source_token": "USDC",
+      "supported": true
+    },
+    {
+      "amount_bucket": "gte1000",
+      "merchant_app_id": "other",
+      "source_chain_id": "900",
+      "source_token": "USDC",
+      "supported": true
+    },
+    {
+      "amount_bucket": "lt1",
+      "merchant_app_id": "other",
+      "source_chain_id": "900",
+      "source_token": "USDC",
+      "supported": true
+    },
+    {
+      "amount_bucket": "1to10",
+      "merchant_app_id": "other",
+      "source_chain_id": "900",
+      "source_token": "USDT",
+      "supported": false
+    },
+    {
+      "amount_bucket": "lt1",
+      "merchant_app_id": "other",
+      "source_chain_id": "900",
+      "source_token": "USDT",
+      "supported": false
+    },
+    {
+      "amount_bucket": "1to10",
+      "merchant_app_id": "other",
+      "source_chain_id": "999",
+      "source_token": "USDC",
+      "supported": true
+    },
+    {
+      "amount_bucket": "gte1000",
+      "merchant_app_id": "other",
+      "source_chain_id": "999",
+      "source_token": "USDC",
+      "supported": true
+    },
+    {
+      "amount_bucket": "lt1",
+      "merchant_app_id": "other",
+      "source_chain_id": "999",
+      "source_token": "USDC",
+      "supported": true
+    }
+  ],
+  "thresholds": {
+    "max_days_since_completed": 7,
+    "max_p90_receive_minutes": 30,
+    "max_route_failure_rate_7d": 0.1,
+    "min_ledger_age_days": 28,
+    "min_success_rate": 0.95,
+    "min_terminal_events": 30
+  },
+  "window_days": 14
+}
