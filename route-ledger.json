@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T17:20:12+00:00",
+  "generated_at": "2026-10-12T18:20:27+00:00",
   "ledger_version": 1,
   "routes": [
     {
@@ -309,8 +309,15 @@
       "supported": true
     },
     {
+      "amount_bucket": "1to10",
+      "merchant_app_id": "merchant_openrouter",
+      "source_chain_id": "9133",
+      "source_token": "ZEC",
+      "supported": true
+    },
+    {
       "amount_bucket": "10to50",
-      "last_completed_week": "2026-W41",
+      "last_completed_week": "2026-W42",
       "merchant_app_id": "merchant_openrouter",
       "recommended": false,
       "source_chain_id": "lightning",
