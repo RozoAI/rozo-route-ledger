@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T11:20:16+00:00",
+  "generated_at": "2026-10-12T12:20:16+00:00",
   "ledger_version": 1,
   "routes": [
     {
@@ -209,7 +209,7 @@
     },
     {
       "amount_bucket": "10to50",
-      "last_completed_week": "2026-W41",
+      "last_completed_week": "2026-W42",
       "merchant_app_id": "merchant_openrouter",
       "recommended": false,
       "source_chain_id": "8453",
@@ -548,18 +548,11 @@
       "supported": true
     },
     {
-      "amount_bucket": "10to50",
-      "merchant_app_id": "other",
-      "source_chain_id": "42161",
-      "source_token": "USDT",
-      "supported": true
-    },
-    {
       "amount_bucket": "1to10",
       "merchant_app_id": "other",
       "source_chain_id": "42161",
       "source_token": "USDT",
-      "supported": true
+      "supported": false
     },
     {
       "amount_bucket": "50to200",
