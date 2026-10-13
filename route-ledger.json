@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T00:23:30+00:00",
+  "generated_at": "2026-10-13T01:20:12+00:00",
   "ledger_version": 1,
   "routes": [
     {
@@ -484,12 +484,9 @@
     },
     {
       "amount_bucket": "1to10",
-      "last_completed_week": "2026-W41",
       "merchant_app_id": "other",
-      "recommended": false,
       "source_chain_id": "1500",
       "source_token": "USDC",
-      "success_rate_bucket": "<80%",
       "supported": true
     },
     {
