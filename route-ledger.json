@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T00:35:41+00:00",
+  "generated_at": "2026-10-14T02:20:11+00:00",
   "ledger_version": 1,
   "routes": [
     {
@@ -505,7 +505,7 @@
     },
     {
       "amount_bucket": "50to200",
-      "last_completed_week": "2026-W41",
+      "last_completed_week": "2026-W42",
       "merchant_app_id": "other",
       "recommended": false,
       "source_chain_id": "1500",
@@ -658,7 +658,7 @@
     },
     {
       "amount_bucket": "50to200",
-      "last_completed_week": "2026-W41",
+      "last_completed_week": "2026-W42",
       "merchant_app_id": "other",
       "recommended": false,
       "source_chain_id": "8453",
