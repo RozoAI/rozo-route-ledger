@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T02:20:12+00:00",
+  "generated_at": "2026-10-18T03:20:17+00:00",
   "ledger_version": 1,
   "routes": [
     {
@@ -317,12 +317,9 @@
     },
     {
       "amount_bucket": "10to50",
-      "last_completed_week": "2026-W42",
       "merchant_app_id": "merchant_openrouter",
-      "recommended": false,
       "source_chain_id": "lightning",
       "source_token": "BTC",
-      "success_rate_bucket": "<80%",
       "supported": true
     },
     {
