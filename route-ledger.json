@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T09:20:19+00:00",
+  "generated_at": "2026-10-19T19:43:09+00:00",
   "ledger_version": 1,
   "routes": [
     {
@@ -25,7 +25,7 @@
     },
     {
       "amount_bucket": "10to50",
-      "last_completed_week": "2026-W42",
+      "last_completed_week": "2026-W43",
       "merchant_app_id": "merchant_openrouter",
       "recommended": false,
       "source_chain_id": "1",
@@ -42,7 +42,7 @@
     },
     {
       "amount_bucket": "200to1000",
-      "last_completed_week": "2026-W42",
+      "last_completed_week": "2026-W43",
       "merchant_app_id": "merchant_openrouter",
       "recommended": false,
       "source_chain_id": "1",
@@ -164,7 +164,7 @@
     },
     {
       "amount_bucket": "10to50",
-      "last_completed_week": "2026-W42",
+      "last_completed_week": "2026-W43",
       "merchant_app_id": "merchant_openrouter",
       "recommended": false,
       "source_chain_id": "56",
@@ -209,7 +209,7 @@
     },
     {
       "amount_bucket": "10to50",
-      "last_completed_week": "2026-W42",
+      "last_completed_week": "2026-W43",
       "merchant_app_id": "merchant_openrouter",
       "recommended": false,
       "source_chain_id": "8453",
@@ -331,7 +331,7 @@
     },
     {
       "amount_bucket": "10to50",
-      "last_completed_week": "2026-W42",
+      "last_completed_week": "2026-W43",
       "merchant_app_id": "merchant_openrouter",
       "recommended": false,
       "source_chain_id": "lightning",
@@ -658,12 +658,9 @@
     },
     {
       "amount_bucket": "lt1",
-      "last_completed_week": "2026-W40",
       "merchant_app_id": "other",
-      "recommended": false,
       "source_chain_id": "8453",
       "source_token": "USDC",
-      "success_rate_bucket": "<80%",
       "supported": true
     },
     {
