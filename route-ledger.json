@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T03:20:18+00:00",
+  "generated_at": "2026-10-19T04:20:15+00:00",
   "ledger_version": 1,
   "routes": [
     {
@@ -21,7 +21,7 @@
       "merchant_app_id": "merchant_openrouter",
       "source_chain_id": "1",
       "source_token": "ETH",
-      "supported": false
+      "supported": true
     },
     {
       "amount_bucket": "10to50",
