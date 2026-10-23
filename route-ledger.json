@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T16:20:15+00:00",
+  "generated_at": "2026-10-23T17:20:21+00:00",
   "ledger_version": 1,
   "routes": [
     {
@@ -47,7 +47,7 @@
       "recommended": false,
       "source_chain_id": "1",
       "source_token": "USDC",
-      "success_rate_bucket": ">=95%",
+      "success_rate_bucket": "80-95%",
       "supported": true
     },
     {
