@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T06:20:21+00:00",
+  "generated_at": "2026-10-23T07:20:17+00:00",
   "ledger_version": 1,
   "routes": [
     {
@@ -168,6 +168,13 @@
       "source_chain_id": "56",
       "source_token": "USDC",
       "supported": false
+    },
+    {
+      "amount_bucket": "50to200",
+      "merchant_app_id": "merchant_openrouter",
+      "source_chain_id": "56",
+      "source_token": "USDC",
+      "supported": true
     },
     {
       "amount_bucket": "lt1",
