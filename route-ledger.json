@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T14:20:13+00:00",
+  "generated_at": "2026-11-04T10:20:14+00:00",
   "ledger_version": 1,
   "routes": [
     {
@@ -414,6 +414,13 @@
       "supported": false
     },
     {
+      "amount_bucket": "lt1",
+      "merchant_app_id": "other",
+      "source_chain_id": "137",
+      "source_token": "USDC",
+      "supported": false
+    },
+    {
       "amount_bucket": "10to50",
       "merchant_app_id": "other",
       "source_chain_id": "1500",
@@ -491,6 +498,13 @@
       "supported": true
     },
     {
+      "amount_bucket": "lt1",
+      "merchant_app_id": "other",
+      "source_chain_id": "42161",
+      "source_token": "USDC",
+      "supported": false
+    },
+    {
       "amount_bucket": "1to10",
       "merchant_app_id": "other",
       "source_chain_id": "42161",
@@ -534,9 +548,12 @@
     },
     {
       "amount_bucket": "10to50",
+      "last_completed_week": "2026-W44",
       "merchant_app_id": "other",
+      "recommended": false,
       "source_chain_id": "56",
       "source_token": "USDT",
+      "success_rate_bucket": "<80%",
       "supported": true
     },
     {
@@ -641,7 +658,7 @@
       "merchant_app_id": "other",
       "source_chain_id": "900",
       "source_token": "USDC",
-      "supported": true
+      "supported": false
     },
     {
       "amount_bucket": "10to50",
