@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T17:20:11+00:00",
+  "generated_at": "2026-11-04T18:29:47+00:00",
   "ledger_version": 1,
   "routes": [
     {
@@ -22,13 +22,6 @@
       "source_chain_id": "1",
       "source_token": "USDC",
       "supported": true
-    },
-    {
-      "amount_bucket": "1to10",
-      "merchant_app_id": "merchant_openrouter",
-      "source_chain_id": "1",
-      "source_token": "USDC",
-      "supported": false
     },
     {
       "amount_bucket": "200to1000",
@@ -219,13 +212,6 @@
       "supported": true
     },
     {
-      "amount_bucket": "1to10",
-      "merchant_app_id": "merchant_openrouter",
-      "source_chain_id": "8453",
-      "source_token": "ETH",
-      "supported": false
-    },
-    {
       "amount_bucket": "10to50",
       "last_completed_week": "2026-W45",
       "merchant_app_id": "merchant_openrouter",
@@ -269,13 +255,6 @@
       "source_chain_id": "900",
       "source_token": "SOL",
       "supported": true
-    },
-    {
-      "amount_bucket": "1to10",
-      "merchant_app_id": "merchant_openrouter",
-      "source_chain_id": "900",
-      "source_token": "SOL",
-      "supported": false
     },
     {
       "amount_bucket": "10to50",
