@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T02:20:13+00:00",
+  "generated_at": "2026-11-12T03:20:14+00:00",
   "ledger_version": 1,
   "routes": [
     {
@@ -307,13 +307,6 @@
     },
     {
       "amount_bucket": "10to50",
-      "merchant_app_id": "merchant_openrouter",
-      "source_chain_id": "9133",
-      "source_token": "ZEC",
-      "supported": true
-    },
-    {
-      "amount_bucket": "1to10",
       "merchant_app_id": "merchant_openrouter",
       "source_chain_id": "9133",
       "source_token": "ZEC",
