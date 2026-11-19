@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T06:20:39+00:00",
+  "generated_at": "2026-11-19T11:20:40+00:00",
   "ledger_version": 1,
   "routes": [
     {
@@ -765,6 +765,13 @@
       "source_chain_id": "9133",
       "source_token": "ZEC",
       "supported": true
+    },
+    {
+      "amount_bucket": "1to10",
+      "merchant_app_id": "other",
+      "source_chain_id": "999",
+      "source_token": "USDC",
+      "supported": false
     }
   ],
   "thresholds": {
