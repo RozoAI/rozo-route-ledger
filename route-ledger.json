@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T17:22:10+00:00",
+  "generated_at": "2026-11-20T18:20:41+00:00",
   "ledger_version": 1,
   "routes": [
     {
@@ -120,6 +120,13 @@
       "source_chain_id": "1500",
       "source_token": "USDC",
       "supported": true
+    },
+    {
+      "amount_bucket": "gte1000",
+      "merchant_app_id": "merchant_openrouter",
+      "source_chain_id": "1500",
+      "source_token": "USDC",
+      "supported": false
     },
     {
       "amount_bucket": "lt1",
