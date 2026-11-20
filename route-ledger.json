@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T06:20:34+00:00",
+  "generated_at": "2026-11-20T07:22:07+00:00",
   "ledger_version": 1,
   "routes": [
     {
@@ -179,6 +179,13 @@
     },
     {
       "amount_bucket": "1to10",
+      "merchant_app_id": "merchant_openrouter",
+      "source_chain_id": "56",
+      "source_token": "BNB",
+      "supported": true
+    },
+    {
+      "amount_bucket": "50to200",
       "merchant_app_id": "merchant_openrouter",
       "source_chain_id": "56",
       "source_token": "BNB",
