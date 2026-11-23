@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T03:38:30+00:00",
+  "generated_at": "2026-11-23T04:20:16+00:00",
   "ledger_version": 1,
   "routes": [
     {
@@ -203,7 +203,7 @@
     },
     {
       "amount_bucket": "10to50",
-      "last_completed_week": "2026-W47",
+      "last_completed_week": "2026-W48",
       "merchant_app_id": "merchant_openrouter",
       "recommended": false,
       "source_chain_id": "56",
