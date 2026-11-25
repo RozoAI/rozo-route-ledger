@@ -1,9 +1,16 @@
 {
-  "generated_at": "2026-11-25T11:20:36+00:00",
+  "generated_at": "2026-11-25T14:20:16+00:00",
   "ledger_version": 1,
   "routes": [
     {
       "amount_bucket": "10to50",
+      "merchant_app_id": "merchant_openrouter",
+      "source_chain_id": "1",
+      "source_token": "ETH",
+      "supported": true
+    },
+    {
+      "amount_bucket": "200to1000",
       "merchant_app_id": "merchant_openrouter",
       "source_chain_id": "1",
       "source_token": "ETH",
@@ -610,7 +617,7 @@
       "merchant_app_id": "other",
       "source_chain_id": "42161",
       "source_token": "USDT",
-      "supported": false
+      "supported": true
     },
     {
       "amount_bucket": "lt1",
