@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T08:20:18+00:00",
+  "generated_at": "2026-11-27T11:22:07+00:00",
   "ledger_version": 1,
   "routes": [
     {
@@ -496,10 +496,24 @@
       "merchant_app_id": "other",
       "source_chain_id": "1500",
       "source_token": "EURC",
-      "supported": false
+      "supported": true
+    },
+    {
+      "amount_bucket": "200to1000",
+      "merchant_app_id": "other",
+      "source_chain_id": "1500",
+      "source_token": "EURC",
+      "supported": true
     },
     {
       "amount_bucket": "50to200",
+      "merchant_app_id": "other",
+      "source_chain_id": "1500",
+      "source_token": "EURC",
+      "supported": true
+    },
+    {
+      "amount_bucket": "gte1000",
       "merchant_app_id": "other",
       "source_chain_id": "1500",
       "source_token": "EURC",
